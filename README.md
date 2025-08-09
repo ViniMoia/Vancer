@@ -1,0 +1,1 @@
+Esse projeto, é fruto de uma consultoria ofertada a empresa Vancer, esse site é o resultado final de um processo de roconstrução da pagina da empresa. A intenção dessa consultoria, é transformar a comunicação de empresas por meio da modernização de seus sites e landing pages.
